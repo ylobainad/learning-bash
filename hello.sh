@@ -9,7 +9,7 @@
 #This is a test 
 #myText
 
-##################################################################################
+#################################  IF  #################################################
 #age=15
 
 # ge ---> greater equal(Its only use with integers)
@@ -90,3 +90,4 @@
 #ls -s 1>output.txt 2>error.txt
 #error
 #ls -z 1>output.txt 2>error.txt
+
